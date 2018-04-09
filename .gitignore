@@ -1,0 +1,8 @@
+/.eggs
+/build
+/dist
+/tw2.cdnlink.egg-info
+
+__pycache__/
+
+*.py?
